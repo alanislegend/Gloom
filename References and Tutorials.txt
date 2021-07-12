@@ -1,0 +1,9 @@
+DOOM References:
+
+Sprites and Tilemaps-
+2D Extra (Tilemap extra package already installed and working) - https://github.com/Unity-Technologies/2d-extras
+2D extra and tilemaps video - https://www.youtube.com/watch?v=MCRgJIU54pc&list=PLiyfvmtjWC_Uzpqn_76LTJYa9cn3DzUk6&index=8
+Ceiling Sprites go on Postion.Y value as -1
+
+Audio-
+Basic Audio tutorial for adding audio into game: https://www.youtube.com/watch?v=9trRPDXfLDA&list=PLiyfvmtjWC_Uzpqn_76LTJYa9cn3DzUk6&index=9

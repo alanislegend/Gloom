@@ -1,0 +1,11 @@
+DOOM 2D TO DO LIST
+
+1) set up pause menu. currently, cursor is locked and hidden at start. player unlocks cursor by pressing esc, and can relock again by clicking. We want to set up a full pause menu. 
+	Current code for locking/unlocking cursor is in GameManager.cs
+	Current functions for this are private. if doing own pause menu in seperate script, might need to make them public.
+	Also, currently have GameManager.cs script on the player UI object. This will need to change if i will not always be using UI.
+2) Give player melee attack - 
+	Since player uses ammo, will need melee attack in case runs out of ammo
+3) Set up main menu - Check this link to set something up: https://www.udemy.com/course/unitymenus/
+	- Create Main Menu Scene pixel art (instead of black background)
+	- Make sure to set firstLevel variable to the actual first level in the Main Menu scene. Variable is attached to Canvas UI object, MainMenu script. 
